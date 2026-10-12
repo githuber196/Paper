@@ -1,0 +1,4 @@
+*.part-* -text
+*.sh text eol=lf
+*.sha256 text eol=lf
+*.md text eol=lf
